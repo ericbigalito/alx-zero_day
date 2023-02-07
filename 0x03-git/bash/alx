@@ -1,4 +1,3 @@
 
 #!/bin/bash
-echo alx
-cd..
+echo Alx School
